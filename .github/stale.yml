@@ -54,3 +54,4 @@ only: pulls
 # issues:
 #   exemptLabels:
 #     - confirmed
+# test
